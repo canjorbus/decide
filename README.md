@@ -13,6 +13,7 @@ cuando sea posible. Por lo tanto se asumen algunas carencias para permitir
 que sea entendible y extensible.
 
 
+
 Subsistemas, apps y proyecto base
 ---------------------------------
 
